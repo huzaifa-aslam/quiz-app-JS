@@ -1,0 +1,123 @@
+{
+   "response_code":0,
+   "results":[
+      {
+         "category":"Animals",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"How many legs do butterflies have?",
+         "correct_answer":"6",
+         "incorrect_answers":[
+            "2",
+            "4",
+            "0"
+         ]
+      },
+      {
+         "category":"Entertainment: Books",
+         "type":"multiple",
+         "difficulty":"hard",
+         "question":"Which of these does Charlie NOT read in The Perks of Being a Wallflower?",
+         "correct_answer":"The Grapes of Wrath",
+         "incorrect_answers":[
+            "Hamlet",
+            "The Great Gatsby",
+            "Peter Pan"
+         ]
+      },
+      {
+         "category":"Entertainment: Books",
+         "type":"boolean",
+         "difficulty":"easy",
+         "question":"Stephen Chbosky wrote the book &#039;The Perks of Being A Wallflower&#039;.",
+         "correct_answer":"True",
+         "incorrect_answers":[
+            "False"
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"hard",
+         "question":"In the National Pokedex what number is Porygon-Z?",
+         "correct_answer":"474",
+         "incorrect_answers":[
+            "376",
+            "432",
+            "589"
+         ]
+      },
+      {
+         "category":"Entertainment: Music",
+         "type":"multiple",
+         "difficulty":"medium",
+         "question":"What is the last song on the first Panic! At the Disco album?",
+         "correct_answer":"Build God, Then We&#039;ll Talk",
+         "incorrect_answers":[
+            "Nails for Breakfast, Tacks for Snacks",
+            "I Write Sins Not Tragedies",
+            "Lying Is The Most Fun A Girl Can Have Without Taking Her Clothes Off"
+         ]
+      },
+      {
+         "category":"Entertainment: Books",
+         "type":"multiple",
+         "difficulty":"medium",
+         "question":"What is the name of the gang that Ponyboy is a part of in the book, The Outsiders?",
+         "correct_answer":"The Greasers",
+         "incorrect_answers":[
+            "The Outsiders",
+            "The Mafia",
+            "The Socs"
+         ]
+      },
+      {
+         "category":"Entertainment: Cartoon & Animations",
+         "type":"multiple",
+         "difficulty":"medium",
+         "question":"In &quot;SpongeBob SquarePants&quot;, what is the name of Sandy Cheek&#039;s place of residence?",
+         "correct_answer":"Sandy&#039;s Treedome",
+         "incorrect_answers":[
+            "&quot;The Dome&quot;",
+            "Sandy&#039;s Bubble",
+            "Auquatic Reseach Centre"
+         ]
+      },
+      {
+         "category":"Entertainment: Board Games",
+         "type":"multiple",
+         "difficulty":"hard",
+         "question":"In Magic: The Gathering, what was a tribute card to Jamie Wakefield&#039;s late wife Marilyn, who loved horses?",
+         "correct_answer":"Timbermare",
+         "incorrect_answers":[
+            "Loyal Pegasus",
+            "Vryn Wingmare",
+            "Sungrace Pegasus"
+         ]
+      },
+      {
+         "category":"Entertainment: Video Games",
+         "type":"multiple",
+         "difficulty":"hard",
+         "question":"What is the name of the alien species introduced in Shadow the Hedgehog (2005)?",
+         "correct_answer":"Black Arms",
+         "incorrect_answers":[
+            "The Swarm",
+            "Black Hive",
+            "The Eclipse"
+         ]
+      },
+      {
+         "category":"History",
+         "type":"multiple",
+         "difficulty":"medium",
+         "question":"When did the Crisis of the Third Century begin?",
+         "correct_answer":"235 AD",
+         "incorrect_answers":[
+            "235 BC",
+            "242 AD",
+            "210 AD"
+         ]
+      }
+   ]
+}
